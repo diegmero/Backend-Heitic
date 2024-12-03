@@ -1,0 +1,58 @@
+{
+  "collectionName": "components_tecnologias_tecnologias",
+  "info": {
+    "displayName": "Tecnologias",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Frontend": {
+      "type": "enumeration",
+      "enum": [
+        "Html - Css -JavaScript",
+        "Sass",
+        "VueJS",
+        "React",
+        "NextJS"
+      ]
+    },
+    "Backend": {
+      "type": "enumeration",
+      "enum": [
+        "JavaScript",
+        "Python",
+        "Kotlin",
+        "Java",
+        "C#",
+        "Ruby",
+        "Php"
+      ]
+    },
+    "Cloud": {
+      "type": "enumeration",
+      "enum": [
+        "Google Cloud",
+        "AWS",
+        "Azure",
+        "Digital Ocean",
+        "VPS"
+      ]
+    },
+    "Framework": {
+      "type": "enumeration",
+      "enum": [
+        "Sass",
+        "TailwindCss",
+        "VueJS",
+        "React",
+        "NextJS",
+        "Spring Boot",
+        "Ktor",
+        "Django",
+        "Flask",
+        "GIn",
+        "Echo"
+      ]
+    }
+  }
+}
